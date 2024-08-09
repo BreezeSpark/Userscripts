@@ -6,6 +6,7 @@
 // @author      BreezeSpark
 // @description Remove addons buttons from Stremio
 // @icon        https://t3.gstatic.com/faviconV2?client=SOCIAL&url=http://stremio.com
+// @downloadURL https://raw.githubusercontent.com/BreezeSpark/Userscripts/main/Stremio/Remove%20Addons%20Buttons.js
 // ==/UserScript==
 (function () {
   'use strict'
